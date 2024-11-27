@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuBi112
-- 👀 I’m interested in Computer science and gaming
-- 🌱 I’m currently learning C/C++/Python/Rstudio
-- 📫 How to reach me discord name HuBi112
+- 👀 I’m first year student of Computer science
+- 🌱 I’m currently learning C/C++/Python
+- 📫 How to reach me *in progress*
 
 
 <!---
